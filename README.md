@@ -1,7 +1,10 @@
 <head>
     <meta charset="utf-8">
 
-    <style>
+    
+
+</head>
+<style>
       span {
         color:rgb(19, 34, 248);
         font-size: 30px;
@@ -16,9 +19,6 @@
 
 
     </style>
-
-</head>
-
 <h1 align="center">
 <br>
   <img src="imagens/personagem/gokuGif.gif" alt="goku" width="120">
